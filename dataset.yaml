@@ -1,0 +1,27 @@
+path: S:\Python_projects\Pythone_cousre\resume_projects\object_detection_cv\content\data\custom_data
+train: S:\Python_projects\Pythone_cousre\resume_projects\object_detection_cv\content\data\custom_data\images\train
+val: S:\Python_projects\Pythone_cousre\resume_projects\object_detection_cv\content\data\custom_data\images\val
+test: S:\Python_projects\Pythone_cousre\resume_projects\object_detection_cv\content\data\custom_data\images\test
+
+nc: 20
+names:
+  - aeroplane
+  - bicycle
+  - bird
+  - boat
+  - bottle
+  - bus
+  - car
+  - cat
+  - chair
+  - cow
+  - diningtable
+  - dog
+  - horse
+  - motorbike
+  - person
+  - pottedplant
+  - sheep
+  - sofa
+  - train
+  - tvmonitor
